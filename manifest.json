@@ -1,0 +1,9 @@
+{
+  "name": "ToothlessDanceEmote",
+  "version_number": "1.0.4",
+  "website_url": "",
+  "description": "Adds the Toothless dance meme as an emote.",
+  "dependencies": [
+    "Gemumoddo-LethalEmotesAPI-1.1.0"
+  ] 
+}
