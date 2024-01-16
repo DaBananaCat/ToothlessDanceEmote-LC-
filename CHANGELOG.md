@@ -3,6 +3,9 @@
 - I'm properly credited in the code.
 - Version number in the files is now accurate
 
+<details>
+<summary>Previous Versions</summary>
+
 # Version 1.0.3
 - Should be actually fixed now! I'm very sorry, I just uploaded the wrong files for version 1.0.2
 
@@ -17,3 +20,4 @@
 
 # Version 1.0.0
 - First Release
+</details>
